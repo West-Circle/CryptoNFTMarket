@@ -1,8 +1,8 @@
 # 安装与编译
 
-git clone 
+git clone https://github.com/West-Circle/CryptoNFTMarket.git
 
-cd ../CryptoNFT
+cd ../CryptoNFTMarket
 
 npm install
 
