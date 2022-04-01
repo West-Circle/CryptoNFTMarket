@@ -1,0 +1,19 @@
+npx create-react-app cryptonft
+truffle init
+yarn add web -S
+change truffle-config.js:
+	development:{
+		host: "127.0.0.1",
+		port: 8545,(same as ganache)
+		network_id: "*",
+	}
+npm install @openzeppelin/contracts
+npm i ganache-cli
+npm install web3
+npm i antd
+npm install --save  @ant-design/pro-layout
+npm install react-router-dom
+npm install react-scripts@4.0.3
+npm install --save @ant-design/icons
+npm install --save  @ant-design/pro-layout
+npm install bootstrap
